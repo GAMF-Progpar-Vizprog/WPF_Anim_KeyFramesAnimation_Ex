@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace KeyFrames_Animation
+namespace WPF_Anim_KeyFramesAnimation_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

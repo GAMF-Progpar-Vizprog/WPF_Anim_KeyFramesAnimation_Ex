@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Media.Animation;
 
-namespace KeyFrames_Animation
+namespace WPF_Anim_KeyFramesAnimation_Ex
 {
 	public partial class MainWindow : Window
 	{

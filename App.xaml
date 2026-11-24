@@ -1,7 +1,7 @@
-﻿<Application x:Class="KeyFrames_Animation.App"
+﻿<Application x:Class="WPF_Anim_KeyFramesAnimation_Ex.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:KeyFrames_Animation"
+             xmlns:local="clr-namespace:WPF_Anim_KeyFramesAnimation_Ex"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
